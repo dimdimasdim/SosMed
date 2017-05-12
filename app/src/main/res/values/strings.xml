@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Material Tab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Settings</string>
+    <string name="action_new">Settings</string>
+    <string name="logo_desc">App logo</string>
+
+    <string name="title">SosMed</string>
+
+    <string name="label_name_contact">Pevita Pearce</string>
+    <string name="label_pesan">Selamat Siang</string>
+    <string name="label_waktu_pesan">1:02 PAGI</string>
+    <string name="label_notifikasi">3</string>
+</resources>
